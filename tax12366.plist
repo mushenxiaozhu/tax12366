@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://61.55.135.55:8000/tax12366.ipa</string>
+					<string>http://61.55.135.55:8000/tax12366.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://app.cm-force.com/12366/logo114.png</string>
+					<string>http://61.55.135.55:8000/12366/logo114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://app.cm-force.com/12366/logo57.png</string>
+					<string>http://61.55.135.55:8000/12366/logo57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sy.tax12366</string>
+				<string>st.com.tax12366</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
